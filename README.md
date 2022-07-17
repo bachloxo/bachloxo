@@ -12,7 +12,7 @@ from typing import List
 class Jeremy:
     def __init__(self) -> None:
         self.name = 'Jeremy Silva'
-        self.language = ['spanish']
+        self.language = ['vietnamese', 'english']
         self.code = [
             'PHP', 'Python', 'Javascript',
             'Typescript', 'HTML', 'CSS'
@@ -28,7 +28,7 @@ class Jeremy:
     @property
     def developer_tools(self) -> List[str]:
         return [
-            'Docker', 'Travis', 'Nginx'
+            'Docker',, 'Nginx'
         ]
 
 ```
