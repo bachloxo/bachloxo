@@ -9,9 +9,9 @@ A little more about me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 from typing import List
 
 
-class Jeremy:
+class BachTonThat:
     def __init__(self) -> None:
-        self.name = 'Jeremy Silva'
+        self.name = 'Bach Ton That'
         self.language = ['vietnamese', 'english']
         self.code = [
             'PHP', 'Python', 'Javascript',
