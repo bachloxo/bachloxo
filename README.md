@@ -14,21 +14,21 @@ class BachTonThat:
         self.name = 'Bach Ton That'
         self.language = ['vietnamese', 'english']
         self.code = [
-            'PHP', 'Python', 'Javascript',
+            'Python', 'PHP', 'Javascript',
             'Typescript', 'HTML', 'CSS'
         ]
 
     @property
     def frameworks(self) -> List[str]:
         return [
-            'Laravel', 'Codeigniter', 'Django', 'Flask', 'Nestjs', 'Looppack', 'Express'
-            'Vue', 'Boostrap'
+            'Django', 'Laravel', 'Codeigniter', 'Flask', 'Nestjs', 'Looppack', 'Express'
+            'Vue', 'Nuxt', 'Boostrap'
         ]
 
     @property
     def developer_tools(self) -> List[str]:
         return [
-            'Docker',, 'Nginx'
+            'Docker', 'Nginx'
         ]
 
 ```
