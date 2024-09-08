@@ -14,7 +14,7 @@ class BachTonThat:
         self.name = 'Bach Ton That'
         self.language = ['vietnamese', 'english']
         self.code = [
-            'Python', 'PHP', 'Javascript',
+            'Python', 'PHP', 'Javascript', 'Solidity'
             'Typescript', 'HTML', 'CSS'
         ]
 
