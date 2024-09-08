@@ -21,7 +21,7 @@ class BachTonThat:
     @property
     def frameworks(self) -> List[str]:
         return [
-            'Django', 'Laravel', 'Codeigniter', 'Flask', 'Nestjs', 'Looppack', 'Express'
+            'Django', 'FastAPI', 'Laravel', 'Codeigniter', 'Flask', 'Nestjs', 'Looppack', 'Express'
             'Vue', 'Nuxt', 'Boostrap'
         ]
 
@@ -29,6 +29,12 @@ class BachTonThat:
     def developer_tools(self) -> List[str]:
         return [
             'Docker', 'Nginx'
+        ]
+
+    @property
+    def developer_cloud_service(self) -> List[str]:
+        return [
+            'AWS Lambda', 'AWS DynamoDB', 'AWS API Gateway', 'AWS ECS', 'AWS DocumentDB', 'AWS Kinesis', 'AWS IOT', 'AWS TimeStreamDB', 'AWS S3', 'AWS SQS', 'AWS SNS', 'AWS Step function'
         ]
 
 ```
