@@ -1,7 +1,7 @@
 ## Hi, I'm Bach Ton, a Developer 🚀 from VietNam.
 
 <p><em>
-Software Engineer at <a href="https://nals.vn/">Nals Solution</a><br>
+Technical Manager at <a href="[https://nals.vn/](https://mynavitechtus.com/)">Mynavi Techtus Vietnam</a><br>
 </em></p>
 
 A little more about me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
